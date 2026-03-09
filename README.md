@@ -25,3 +25,19 @@ I made the information name dataShard due to me wanting to make it look like tha
 To be completely honest, I aim to aid myself with this assignment with the use of AI due to my lack of knowledge of what to do.
 
 I Added some information at the end that acts as a footer with some relevant information as well as my name to go along with it. # Assigment_Personal_Repo
+
+March 9 2026
+
+I worked with claude AI to build the new version of the python file which in turn completely removes the initial code that was created. 
+
+In the latest rendition, There has been many changes from UI and the readable content the user can read.
+
+personally i wanted to give up the idea of asking Claude for help but low and behold, the new file has interactive UI and all of the above. 
+
+The new python file consist of Python, HTML, and CSS for the content aspect, transition and UI, and finally for the functionality in itself.
+
+The color that claude added was amazing and for someone who has no freaking idea on what to code, i can understand every single lines of code that was writen. 
+
+I also ditched the initial Rajdhani and changed it to Share Tech Mono, which trully set the vibe of that the program is all about. 
+
+and thats it that is the final output. thank you.
