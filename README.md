@@ -40,4 +40,12 @@ The color that claude added was amazing and for someone who has no freaking idea
 
 I also ditched the initial Rajdhani and changed it to Share Tech Mono, which trully set the vibe of that the program is all about. 
 
-and thats it that is the final output. thank you.
+Marh 10, 2026. My documentation before passing this on the classroom .
+
+I totatally missed the instruction and so i had to revision it quite alot with the help of claude
+
+I implemented an Input Output system and process in the code and I also added another login system due to the feature where it shows and displays a classified information on the screen 
+
+I also added an About Page where it displays some brief information about the file in itself
+
+I have also added some comment that captions what each function does.
